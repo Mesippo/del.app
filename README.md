@@ -1,2 +1,2 @@
 # del.app
-Data wipe.
+Data wipe program created with Java.
