@@ -1,4 +1,4 @@
 # del.app
 Data wipe program created with Java.
 
-MacOS Download: [Link](url)
+macOS Download: [Link](https://github.com/Mesippo/del.app/blob/main/del-macOS-x.app.zip)
